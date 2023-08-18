@@ -16,9 +16,12 @@ Frontend Developer
 </div>
 
 ### 🪛tools
+
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" alt="ESLint" />
-</div>
-### [blog Link ⬅️](https://morethan-23qdehtms-mini-aron.vercel.app)
+</div> 
+ 
+### 🥰blog
+#### [aron-log ⬅️](https://morethan-23qdehtms-mini-aron.vercel.app)
