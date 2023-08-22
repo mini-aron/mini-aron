@@ -25,6 +25,7 @@ Frontend Developer
  
 ### 🥰blog
 #### [aron-log ⬅️](https://morethan-23qdehtms-mini-aron.vercel.app)
-
-### instagram
-#### [Link](https://instagram.com/aronia_dv?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
+### social link
+<div>
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"  alt="instagram" />
+</div>
