@@ -31,3 +31,6 @@ Frontend Developer
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"  alt="instagram" />
   </a>
 </div>
+
+### portfolio  
+[portfolio link](https://closed-map-1dd.notion.site/e203fb30f5cb47dcb326e5e2e9d7e751?pvs=4)
